@@ -18,4 +18,10 @@
 		
 	</settings>
 	
+	<typeAliases>
+		<package name="somdoong.dto"/>
+		<package name="somdoong.util"/>
+	</typeAliases>
+	
+	
 </configuration>
