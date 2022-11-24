@@ -243,7 +243,7 @@ label.required::after {
 								for="allowPromotions">프로모션 정보 수신 동의</label>
 						</div>
 						<div class="terms__content">
-						
+						ㅇㅇ
 						</div>
 					</li>
 				</ul>
