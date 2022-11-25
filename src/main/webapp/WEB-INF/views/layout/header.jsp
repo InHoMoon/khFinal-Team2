@@ -33,7 +33,7 @@
 .footer {
 	text-align: center;
 	width: auto;
-	height: 72px;
+	height: 97px;
 }
 
 .container {
